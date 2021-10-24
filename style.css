@@ -264,6 +264,7 @@ a {
   color: var(--pink);
   cursor: pointer;
   transition: .3s all ease;
+  font-weight: 600;
 }
 
 .services__link:hover {
